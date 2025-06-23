@@ -1,7 +1,7 @@
 {
   "name": "my-cors-proxy",
   "version": "1.0.0",
-  "description": "A simple CORS proxy",
+  "description": "A simple CORS proxy (updated)",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
